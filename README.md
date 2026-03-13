@@ -1,6 +1,6 @@
 # Shazeel Ali
 
-### Part III Software Engineering Student at The University of Auckland
+### Part IV Software Engineering Student at The University of Auckland
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/shazeel-ali-57bb842b7/) [![Henry Games/Personal Website](HenryGamesLogo42x32.png)](https://henry.games) [![](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg)](https://github.com/ShazeelAli)
 
